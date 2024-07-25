@@ -4,8 +4,9 @@
 
 </br>
 
-<center> Tabla 1. Datos a ser almacenados</center>
+Tabla 1. Datos a ser almacenados
 
+</br>
 
 |  Dato  | tipo de dato |        Descripción         |
 |:------:|:------------:|:--------------------------:|
