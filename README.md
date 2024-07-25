@@ -8,4 +8,16 @@
 | nombre | String |    Nombre del empleado     |
 | email  | String |     Email del empleado     |
 | cedula | String |    Cedula del empleado     |
-|  rol   | String | Rol que ocupa el empleado  |
+|  rol   | String | Rol que ocupa el empleado  |  
+
+</br>
+
+--- 
+
+
+
+## Arquitectura de la solución.
+
+</br>
+
+![Arquitectura de la solución](/Diagrama.drawio.png)
